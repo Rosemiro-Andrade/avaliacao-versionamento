@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif; /* Define a fonte padrão para o texto da página */
+    text-align: center; /* Centraliza o texto na página */
+    background-color: #f0f0f0; /* Define a cor de fundo da página */
+    color: #333; /* Define a cor do texto */
+}
+
+.card {
+    background: white; /* Define o fundo branco para o cartão */
+    border-radius: 10px; /* Adiciona bordas arredondadas ao cartão */
+    padding: 20px; /* Adiciona espaçamento interno de 20px ao redor do conteúdo do cartão */
+    margin: 50px auto; /* Adiciona margem superior e inferior de 50px e centraliza horizontalmente */
+    max-width: 600px; /* Define a largura máxima do cartão como 600px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil ao cartão */
+}
+
+h1 {
+    color: #4CAF50; /* Define a cor do texto dos títulos h1 como verde */
+}
+
+h2 {
+    color: #555; /* Define a cor do texto dos títulos h2 como cinza escuro */
+}
+
+p {
+    font-size: 18px; /* Define o tamanho da fonte dos parágrafos como 18px */
+}
+
+.signature {
+    margin-top: 30px; /* Adiciona uma margem superior de 30px aos elementos com a classe signature */
+    font-style: italic; /* Define o estilo da fonte como itálico */
+}
